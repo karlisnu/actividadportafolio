@@ -7,5 +7,7 @@
 			"path": "../cursoJavaScrip"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabajo10"
+	}
 }
